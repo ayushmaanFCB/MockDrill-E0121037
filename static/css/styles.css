@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    padding: 2rem;
+}
+
+#title {
+    padding: 2rem;
+}
+
+.container-fluid {
+    align-items: center;
+    justify-content: center
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+button a {
+    font-size: 2rem;
+}
+
+hr {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
